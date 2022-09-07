@@ -5,8 +5,7 @@
 It is my first musical instrument! Music apps are so popular on the App Store that they even get their own category. So in this app, I've made a colourful XyloPhone app.
 
 
-[https://media.giphy.com/media/fQ2r0vuHfpVmfwruMx/giphy.gif
-](https://media0.giphy.com/media/fQ2r0vuHfpVmfwruMx/giphy.gif)
+![Sep-07-2022 17-55-40](https://user-images.githubusercontent.com/55702254/188910386-8f089394-e8d8-4f3c-a64e-5a9afd8ea6d2.gif)
 
 
 ## Things I have learnead by making this app:
