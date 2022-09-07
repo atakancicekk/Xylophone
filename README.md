@@ -2,11 +2,14 @@
 
 
 # Xylophone
-It is my first musical instrument! Music apps are so popular on the App Store that they even get their own category. So in this app, I've made a colourful XyloPhone app.
-
+It is my first musical instrument! Music apps are so popular on the App Store that they even get their own category. So in this app, I've made a colourful XyloPhone app. Make sure that your phone is not on the silent mode ! 🙃
+<br />
+<br />
 
 ![Sep-07-2022 17-58-26](https://user-images.githubusercontent.com/55702254/188911145-7ec5f6de-4dff-4c7f-959c-dd5340e1f933.gif)
 
+<br />
+<br />
 
 ## Things I have learnead by making this app:
 - How to play sound using AVFoundation and AVAudioPlayer.
