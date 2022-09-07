@@ -11,7 +11,7 @@ It is my first musical instrument! Music apps are so popular on the App Store th
 <br />
 <br />
 
-## Things I have learnead by making this app:
+## Things I have learned by making this app:
 - How to play sound using AVFoundation and AVAudioPlayer.
 - Understand Apple documentation and how to use StackOverflow.
 - Functions and methods in Swift.
